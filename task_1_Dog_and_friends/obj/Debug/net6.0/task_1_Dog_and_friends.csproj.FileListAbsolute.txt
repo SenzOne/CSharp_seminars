@@ -1,0 +1,15 @@
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/bin/Debug/net6.0/task_1_Dog_and_friends
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/bin/Debug/net6.0/task_1_Dog_and_friends.deps.json
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/bin/Debug/net6.0/task_1_Dog_and_friends.runtimeconfig.json
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/bin/Debug/net6.0/task_1_Dog_and_friends.dll
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/bin/Debug/net6.0/task_1_Dog_and_friends.pdb
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.csproj.AssemblyReference.cache
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.AssemblyInfoInputs.cache
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.AssemblyInfo.cs
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.csproj.CoreCompileInputs.cache
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.dll
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/refint/task_1_Dog_and_friends.dll
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.pdb
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/task_1_Dog_and_friends.genruntimeconfig.cache
+/Users/s.slashchhinin/Documents/Repo/C# GB/seminars/task_1_Dog_and_friends/obj/Debug/net6.0/ref/task_1_Dog_and_friends.dll
