@@ -6,12 +6,23 @@ Console.Write("Введи первое число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 
-if (n > 0){
+if (n > 0)
+{
     int a = -n;
 
-    while (a < n + 1)
+    while (a < n - 1)
     {
         Console.Write($" {a}");
         a++;
+    }
+}
+else if (n < 0)
+{
+    int a = n * (-1);
+
+    while (a >= n)
+    {
+        Console.Write($"{a} ");
+        a--;
     }
 }
