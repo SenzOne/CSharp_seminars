@@ -2,7 +2,7 @@
 // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4" 
 // 2 -> " -2, -1, 0, 1, 2"
 
-Console.Write("Введи первое число: ");
+Console.Write("Введи число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 
@@ -10,7 +10,7 @@ if (n > 0)
 {
     int a = -n;
 
-    while (a < n - 1)
+    while (a <= n)
     {
         Console.Write($" {a}");
         a++;
@@ -18,7 +18,7 @@ if (n > 0)
 }
 else if (n < 0)
 {
-    int a = n * (-1);
+    int a = -n;
 
     while (a >= n)
     {
