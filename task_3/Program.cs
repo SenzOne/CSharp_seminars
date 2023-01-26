@@ -5,37 +5,32 @@
 Console.Write("Введи первое число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
-if (a == 1)
+switch (a)
 {
-    Console.WriteLine("Пн");
-}
-if (a == 2)
-{
-    Console.WriteLine("Вт");
-}
-if (a == 3)
-{
-    Console.WriteLine("Ср");
-}
-if (a == 4)
-{
-    Console.WriteLine("Чт");
-}
-if (a == 5)
-{
-    Console.WriteLine("Пт");
-}
-if (a == 6)
-{
-    Console.WriteLine("Сб");
-}
-if (a == 7)
-{
-    Console.WriteLine("Вс");
-}
-if (a > 7)
-{
-    Console.WriteLine("Введи число от 1 до 7");
+    case 1:
+        System.Console.WriteLine("Пн");
+        break;
+    case 2:
+        System.Console.WriteLine("Вт");
+        break;
+    case 3:
+        System.Console.WriteLine("Ср");
+        break;
+    case 4:
+        System.Console.WriteLine("Чт");
+        break;
+    case 5:
+        System.Console.WriteLine("Пт");
+        break;
+    case 6:
+        System.Console.WriteLine("Сб");
+        break;
+    case 7:
+        System.Console.WriteLine("Вс");
+        break;
+    default:
+        System.Console.WriteLine("Введи число от 1 до 7");
+        break;
 }
 
 
